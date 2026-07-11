@@ -1,0 +1,24 @@
+[
+  {
+    "id": "feedozone-ceo",
+    "role": "Founder & CEO",
+    "company": "FeedoZone",
+    "location": "Warananagar, Maharashtra",
+    "type": "Startup",
+    "duration": "Apr 2026 – Present",
+    "current": true,
+    "description": "Built and launched FeedoZone from the ground up as a solo founder, independently managing every aspect of the startup from idea validation to execution.",
+    "responsibilities": [
+      "Built and launched FeedoZone from ground up as a solo founder",
+      "Led end-to-end product development: strategy, design, development, and deployment",
+      "Managed vendor relationships, customer support, order management, and day-to-day operations",
+      "Drove marketing through digital campaigns, campus outreach, and social media",
+      "Conceptualized and improved the product based on customer and vendor feedback",
+      "Established onboarding pipelines for restaurants, delivery partners, and customers",
+      "Made strategic decisions to enhance customer experience and scale the business"
+    ],
+    "skills": ["Product Management", "Full Stack Development", "React Native", "Firebase", "Operations", "Marketing", "Leadership"],
+    "color": "#F97316",
+    "logo": "/images/projects/feedozone-thumb.png"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "btech",
+    "degree": "B.Tech – Computer Science & Business Systems",
+    "institution": "Tatyasaheb Kore Institute of Engineering & Technology (TKIET)",
+    "location": "Warananagar, Kolhapur, Maharashtra",
+    "duration": "2024 – 2028",
+    "grade": "6.50 / 10",
+    "current": true,
+    "description": "Pursuing B.Tech in Computer Science & Business Systems with focus on software engineering, product development, and entrepreneurship.",
+    "highlights": ["Founded FeedoZone during 1st year", "Tech Head – CSBS Association", "Graphic Design Head – IEDC Committee"]
+  },
+  {
+    "id": "hsc",
+    "degree": "XII (Senior Secondary) – Science",
+    "institution": "Maharashtra State Board of Secondary and Higher Secondary Education",
+    "location": "Maharashtra",
+    "duration": "2023",
+    "grade": "53.00 / 100",
+    "current": false,
+    "description": "Completed Higher Secondary Certificate in Science stream."
+  },
+  {
+    "id": "ssc",
+    "degree": "X (Secondary)",
+    "institution": "Maharashtra State Board of Secondary and Higher Secondary Education",
+    "location": "Maharashtra",
+    "duration": "2021",
+    "grade": "84.00 / 100",
+    "current": false,
+    "description": "Completed Secondary School Certificate."
+  }
+]

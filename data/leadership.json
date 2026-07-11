@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tech-head-csbs",
+    "role": "Tech Head",
+    "organization": "CSBS Association",
+    "institution": "TKIET, Warananagar",
+    "duration": "2024 – Present",
+    "description": "Led and organized technical events, coding activities, and workshops. Coordinated with students and faculty for successful event execution.",
+    "responsibilities": [
+      "Organized technical workshops and coding events",
+      "Led a team of student volunteers",
+      "Coordinated with faculty for event planning",
+      "Mentored junior students in programming"
+    ],
+    "icon": "cpu"
+  },
+  {
+    "id": "design-head-iedc",
+    "role": "Graphic Design Head",
+    "organization": "IEDC Committee",
+    "institution": "TKIET, Warananagar",
+    "duration": "2024 – Present",
+    "description": "Led the design team and managed branding, posters, and promotional content for college innovation and entrepreneurship events.",
+    "responsibilities": [
+      "Led the design team for all committee materials",
+      "Created branding, posters, and promotional content",
+      "Managed visual identity for events",
+      "Collaborated with other committee heads"
+    ],
+    "icon": "palette"
+  }
+]

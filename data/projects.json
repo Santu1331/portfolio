@@ -1,0 +1,126 @@
+[
+  {
+    "id": "feedozone",
+    "title": "FeedoZone",
+    "subtitle": "Hyperlocal Food Delivery Platform",
+    "tagline": "Solving food delivery for rural & semi-urban India",
+    "description": "FeedoZone is a hyperlocal food delivery startup built to solve real food delivery problems in rural and semi-urban India. As a solo founder, I handled everything from product strategy and full-stack development to operations, vendor onboarding, and marketing.",
+    "status": "Live",
+    "type": "Startup",
+    "featured": true,
+    "category": "Startup",
+    "year": "2026",
+    "duration": "Apr 2026 – Present",
+    "liveUrl": "https://feedo-ruddy.vercel.app",
+    "founderProfile": "https://feedo-ruddy.vercel.app/founder-profile",
+    "githubUrl": null,
+    "image": "/images/projects/feedozone-hero.png",
+    "thumbnail": "/images/projects/feedozone-thumb.png",
+    "gallery": [],
+    "tags": ["React Native", "Node.js", "Firebase", "Next.js", "Tailwind CSS"],
+    "problem": "Rural and semi-urban areas in India lack reliable food delivery infrastructure. Existing platforms like Swiggy and Zomato don't serve these markets, leaving millions of students, hostel residents, and working professionals without access to convenient food ordering.",
+    "solution": "FeedoZone is a hyperlocal food delivery platform that connects local restaurants and home kitchens with customers in underserved areas. By focusing on small towns and college towns, we solve last-mile delivery where giants won't go.",
+    "features": [
+      "Real-time order tracking",
+      "Restaurant & vendor onboarding portal",
+      "Multi-role authentication (customer, vendor, admin)",
+      "Order management system",
+      "Payment integration",
+      "Customer support workflows",
+      "Mobile-first React Native app",
+      "Admin dashboard"
+    ],
+    "techStack": {
+      "frontend": ["React Native", "Next.js", "Tailwind CSS"],
+      "backend": ["Node.js", "Express.js", "Firebase"],
+      "database": ["Firebase Firestore"],
+      "tools": ["Vercel", "GitHub", "Figma"]
+    },
+    "metrics": [
+      { "label": "Months Live", "value": "3+" },
+      { "label": "Vendors Onboarded", "value": "5+" },
+      { "label": "Orders Processed", "value": "50+" },
+      { "label": "Cities Targeted", "value": "2" }
+    ],
+    "roles": [
+      "Product Strategy & Roadmap",
+      "Full Stack Development",
+      "React Native App Development",
+      "UI/UX Design",
+      "Backend Architecture",
+      "Firebase Integration",
+      "Vendor Onboarding",
+      "Customer Support",
+      "Marketing & Branding",
+      "Deployment & DevOps"
+    ],
+    "timeline": [
+      { "date": "Jan 2026", "event": "Idea Validation & Market Research" },
+      { "date": "Feb 2026", "event": "MVP Design & Architecture" },
+      { "date": "Mar 2026", "event": "Core Development Begins" },
+      { "date": "Apr 2026", "event": "MVP Launch & Vendor Onboarding" },
+      { "date": "May 2026", "event": "First Orders Processed" },
+      { "date": "Jun 2026", "event": "Feature Iteration & Growth" },
+      { "date": "Jul 2026", "event": "Scaling Operations" }
+    ],
+    "businessModel": "Commission-based model where FeedoZone earns a percentage on each order. Additional revenue streams include featured listings for restaurants and delivery subscription plans for heavy users.",
+    "founderStory": "I noticed that my fellow students and hostel residents in Warananagar had no reliable food delivery option. The big apps didn't serve us. So I decided to build one myself — from scratch, alone. FeedoZone is the result of that frustration turned into execution.",
+    "roadmap": [
+      "Expand to 10+ colleges",
+      "Launch Android & iOS apps on stores",
+      "Introduce subscription meal plans",
+      "Partner with home kitchen entrepreneurs",
+      "Build loyalty rewards system"
+    ],
+    "color": "#F97316"
+  },
+  {
+    "id": "jalnetra",
+    "title": "JalNetra",
+    "subtitle": "IoT Smart Water Monitoring System",
+    "tagline": "Real-time water monitoring powered by IoT & Firebase",
+    "description": "JalNetra is an IoT-enabled smart water monitoring system designed to improve water conservation and optimize resource utilization through real-time data collection, automated alerting, and actionable analytics.",
+    "status": "Completed",
+    "type": "Project",
+    "featured": true,
+    "category": "IoT",
+    "year": "2026",
+    "duration": "Feb 2026 – Mar 2026",
+    "liveUrl": "https://wqiv1-7588d.firebaseapp.com/",
+    "githubUrl": null,
+    "image": "/images/projects/jalnetra-hero.png",
+    "thumbnail": "/images/projects/jalnetra-thumb.png",
+    "gallery": [],
+    "tags": ["IoT", "Firebase", "JavaScript", "Embedded Systems", "Real-time"],
+    "problem": "Water wastage due to lack of real-time monitoring and automated alerts in residential and institutional settings leads to significant resource loss and increased utility costs.",
+    "solution": "JalNetra deploys IoT sensors to continuously monitor water parameters, pushes data to Firebase in real-time, and provides a web dashboard for tracking usage patterns, triggering alerts, and generating conservation insights.",
+    "features": [
+      "Real-time sensor data collection",
+      "Firebase cloud data pipeline",
+      "Web dashboard for monitoring",
+      "Automated threshold alerts",
+      "Water usage analytics",
+      "Historical data visualization",
+      "Multi-sensor support"
+    ],
+    "techStack": {
+      "frontend": ["JavaScript", "HTML/CSS", "Charts.js"],
+      "backend": ["Firebase Functions"],
+      "database": ["Firebase Realtime Database"],
+      "tools": ["IoT Sensors", "Arduino/ESP32", "Firebase Hosting"]
+    },
+    "metrics": [
+      { "label": "Development Time", "value": "4 weeks" },
+      { "label": "Sensors Integrated", "value": "3+" },
+      { "label": "Data Points/Min", "value": "60+" }
+    ],
+    "roles": [
+      "IoT Architecture Design",
+      "Firmware Development",
+      "Firebase Integration",
+      "Dashboard Development",
+      "Testing & Deployment"
+    ],
+    "color": "#3B82F6"
+  }
+]

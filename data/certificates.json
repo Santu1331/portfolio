@@ -1,0 +1,13 @@
+[
+  {
+    "id": "sample-cert-1",
+    "title": "Add Your First Certificate",
+    "issuer": "Platform / Organization",
+    "date": "2026",
+    "description": "Drop certificate images or PDFs in /public/certificates/ and add an entry here. The website auto-generates the card.",
+    "image": null,
+    "pdf": null,
+    "skills": [],
+    "placeholder": true
+  }
+]

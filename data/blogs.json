@@ -1,0 +1,14 @@
+[
+  {
+    "id": "why-i-built-feedozone",
+    "title": "Why I Built FeedoZone — The Story of a Rural Food Delivery Startup",
+    "slug": "why-i-built-feedozone",
+    "excerpt": "Every great startup starts with a personal pain point. Here's the story of how FeedoZone was born from my own frustration as a hostel student with no food delivery options.",
+    "date": "2026-05-01",
+    "readTime": "5 min read",
+    "tags": ["Startup", "FeedoZone", "Founder Story"],
+    "published": true,
+    "featured": true,
+    "cover": "/images/gallery/feedozone-1.jpg"
+  }
+]

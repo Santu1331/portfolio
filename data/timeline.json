@@ -1,0 +1,76 @@
+[
+  {
+    "id": "btech-start",
+    "date": "Aug 2024",
+    "title": "Started B.Tech CSBS",
+    "description": "Joined TKIET Warananagar for B.Tech in Computer Science & Business Systems.",
+    "type": "education",
+    "icon": "graduation-cap"
+  },
+  {
+    "id": "csbs-tech-head",
+    "date": "Sep 2024",
+    "title": "Tech Head – CSBS Association",
+    "description": "Elected as Tech Head of CSBS Association. Started organizing coding workshops and technical events.",
+    "type": "leadership",
+    "icon": "cpu"
+  },
+  {
+    "id": "iedc-design",
+    "date": "Oct 2024",
+    "title": "Graphic Design Head – IEDC",
+    "description": "Joined IEDC Committee as Graphic Design Head. Managed all design and branding work.",
+    "type": "leadership",
+    "icon": "palette"
+  },
+  {
+    "id": "mba-fusion",
+    "date": "2025",
+    "title": "2nd Prize – MBA Fusion Fest 2K25",
+    "description": "Won 2nd place at inter-college MBA Fusion Fest demonstrating innovation and leadership.",
+    "type": "achievement",
+    "icon": "trophy"
+  },
+  {
+    "id": "jalnetra",
+    "date": "Feb 2026",
+    "title": "Built JalNetra",
+    "description": "Developed IoT Smart Water Monitoring System with Firebase integration and real-time dashboard.",
+    "type": "project",
+    "icon": "droplets"
+  },
+  {
+    "id": "paper-presentation",
+    "date": "Mar 2026",
+    "title": "3rd Prize – National Paper Presentation",
+    "description": "Won 3rd prize at National Level Paper Presentation & Project Exhibition at TKIET.",
+    "type": "achievement",
+    "icon": "file-text"
+  },
+  {
+    "id": "iit-patna",
+    "date": "2026",
+    "title": "3rd Prize – IIT Patna Chemathon",
+    "description": "Secured 3rd prize at IICHE Chemathon 2026 organized by IIT Patna, competing at national level.",
+    "type": "achievement",
+    "icon": "award"
+  },
+  {
+    "id": "feedozone-start",
+    "date": "Apr 2026",
+    "title": "Launched FeedoZone",
+    "description": "Founded and launched FeedoZone — hyperlocal food delivery platform for rural India. First orders processed.",
+    "type": "startup",
+    "icon": "rocket",
+    "highlight": true
+  },
+  {
+    "id": "feedozone-scale",
+    "date": "Jul 2026",
+    "title": "Scaling FeedoZone",
+    "description": "Continuing to grow FeedoZone with new vendors, features, and expanding to more areas.",
+    "type": "startup",
+    "icon": "trending-up",
+    "current": true
+  }
+]

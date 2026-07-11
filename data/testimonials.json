@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "name": "Add Testimonial",
+    "role": "User / Mentor / Colleague",
+    "avatar": null,
+    "text": "Add testimonials from users, mentors, or colleagues who can vouch for your work.",
+    "placeholder": true
+  }
+]

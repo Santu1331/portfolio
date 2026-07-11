@@ -1,0 +1,47 @@
+[
+  {
+    "id": "iit-patna-chemathon",
+    "title": "3rd Prize – IIT Patna Chemathon",
+    "competition": "IICHE Chemathon 2026",
+    "organizer": "IIT Patna & IICHE",
+    "level": "National",
+    "position": "3rd",
+    "date": "2026",
+    "description": "Secured 3rd Prize in IICHE Chemathon 2026 organized by IIT Patna & IICHE. Demonstrated strong analytical thinking, engineering knowledge, technical problem-solving, teamwork, and competitive performance at the national level.",
+    "skills": ["Analytical Thinking", "Engineering Knowledge", "Problem Solving", "Teamwork", "Competitive Performance"],
+    "certificate": null,
+    "image": "/images/achievements/iit-patna.png",
+    "badge": "🥉",
+    "color": "#CD7F32"
+  },
+  {
+    "id": "national-paper-presentation",
+    "title": "3rd Prize – National Paper Presentation & Project Exhibition",
+    "competition": "National Level Paper Presentation & Project Exhibition",
+    "organizer": "TKIET, Warananagar",
+    "level": "National",
+    "position": "3rd",
+    "date": "2026",
+    "description": "Secured 3rd Prize in a National Level Paper Presentation & Project Exhibition at TKIET Warananagar. Presented an innovative technical project, demonstrating research, problem-solving, technical knowledge, and presentation skills.",
+    "skills": ["Research", "Problem Solving", "Technical Knowledge", "Presentation Skills"],
+    "certificate": null,
+    "image": "/images/achievements/paper-presentation.png",
+    "badge": "🥉",
+    "color": "#CD7F32"
+  },
+  {
+    "id": "mba-fusion",
+    "title": "2nd Prize – MBA Fusion Fest 2K25",
+    "competition": "MBA Fusion Fest 2K25",
+    "organizer": "TKIET, Warananagar",
+    "level": "Inter-College",
+    "position": "2nd",
+    "date": "2025",
+    "description": "Secured 2nd Prize at MBA Fusion Fest 2K25, TKIET Warananagar. Competed with students from various colleges, showcasing innovation, teamwork, communication, leadership, and presentation skills in a competitive environment.",
+    "skills": ["Innovation", "Teamwork", "Communication", "Leadership", "Presentation"],
+    "certificate": null,
+    "image": "/images/achievements/mba-fusion.png",
+    "badge": "🥈",
+    "color": "#C0C0C0"
+  }
+]

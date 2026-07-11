@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "id": "languages",
+      "label": "Languages",
+      "icon": "code2",
+      "skills": [
+        { "name": "JavaScript", "level": 90, "icon": "js" },
+        { "name": "TypeScript", "level": 80, "icon": "ts" },
+        { "name": "Python", "level": 75, "icon": "python" },
+        { "name": "C", "level": 70, "icon": "c" },
+        { "name": "C#", "level": 65, "icon": "csharp" },
+        { "name": "SQL", "level": 75, "icon": "sql" }
+      ]
+    },
+    {
+      "id": "frontend",
+      "label": "Frontend",
+      "icon": "monitor",
+      "skills": [
+        { "name": "React", "level": 90, "icon": "react" },
+        { "name": "Next.js", "level": 85, "icon": "next" },
+        { "name": "React Native", "level": 85, "icon": "mobile" },
+        { "name": "Tailwind CSS", "level": 90, "icon": "tailwind" }
+      ]
+    },
+    {
+      "id": "backend",
+      "label": "Backend",
+      "icon": "server",
+      "skills": [
+        { "name": "Node.js", "level": 80, "icon": "node" },
+        { "name": "Express.js", "level": 80, "icon": "express" },
+        { "name": "Firebase", "level": 85, "icon": "firebase" }
+      ]
+    },
+    {
+      "id": "tools",
+      "label": "Tools & Platforms",
+      "icon": "wrench",
+      "skills": [
+        { "name": "Git", "level": 85, "icon": "git" },
+        { "name": "GitHub", "level": 85, "icon": "github" },
+        { "name": "Vercel", "level": 85, "icon": "vercel" },
+        { "name": "Figma", "level": 75, "icon": "figma" },
+        { "name": "VS Code", "level": 95, "icon": "vscode" }
+      ]
+    },
+    {
+      "id": "founder",
+      "label": "Founder Skills",
+      "icon": "briefcase",
+      "skills": [
+        { "name": "Product Strategy", "level": 85, "icon": "target" },
+        { "name": "UI/UX Design", "level": 80, "icon": "palette" },
+        { "name": "Operations", "level": 80, "icon": "settings" },
+        { "name": "Marketing", "level": 75, "icon": "trending-up" },
+        { "name": "Branding", "level": 78, "icon": "award" }
+      ]
+    }
+  ]
+}

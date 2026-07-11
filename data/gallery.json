@@ -1,0 +1,29 @@
+[
+  {
+    "id": "feedozone-1",
+    "title": "FeedoZone Launch",
+    "category": "Startup",
+    "image": "/images/gallery/feedozone-1.jpg",
+    "description": "FeedoZone MVP launch day",
+    "date": "Apr 2026",
+    "placeholder": true
+  },
+  {
+    "id": "hackathon-1",
+    "title": "Hackathon",
+    "category": "Hackathon",
+    "image": "/images/gallery/hackathon-1.jpg",
+    "description": "Competing at a national hackathon",
+    "date": "2026",
+    "placeholder": true
+  },
+  {
+    "id": "college-1",
+    "title": "College Event",
+    "category": "College",
+    "image": "/images/gallery/college-1.jpg",
+    "description": "Tech event at TKIET",
+    "date": "2025",
+    "placeholder": true
+  }
+]

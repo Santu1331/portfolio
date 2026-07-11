@@ -1,0 +1,30 @@
+{
+  "name": "FeedoZone",
+  "tagline": "Hyperlocal food delivery for rural & semi-urban India",
+  "founded": "April 2026",
+  "status": "Live & Growing",
+  "mission": "To make food delivery accessible and reliable for everyone in India — not just metro cities.",
+  "vision": "A future where every student, working professional, and family in rural India can order fresh food with a single tap.",
+  "currentGoals": [
+    "Expand to 5 new college towns by end of 2026",
+    "Launch Android & iOS apps on app stores",
+    "Onboard 50+ restaurant partners",
+    "Process 1000+ orders per month",
+    "Raise seed funding"
+  ],
+  "metrics": [
+    { "label": "Months Live", "value": "3+" },
+    { "label": "Vendors Onboarded", "value": "5+" },
+    { "label": "Orders Processed", "value": "50+" }
+  ],
+  "website": "https://feedo-ruddy.vercel.app",
+  "founderProfile": "https://feedo-ruddy.vercel.app/founder-profile",
+  "toolkit": [
+    { "name": "Next.js", "purpose": "Web App" },
+    { "name": "React Native", "purpose": "Mobile App" },
+    { "name": "Firebase", "purpose": "Backend & Database" },
+    { "name": "Figma", "purpose": "Design" },
+    { "name": "Vercel", "purpose": "Deployment" },
+    { "name": "GitHub", "purpose": "Version Control" }
+  ]
+}

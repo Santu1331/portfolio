@@ -1,0 +1,7 @@
+[
+  { "id": "github", "label": "GitHub", "url": "https://github.com/Santu1331", "icon": "github", "username": "@Santu1331" },
+  { "id": "linkedin", "label": "LinkedIn", "url": "https://linkedin.com/in/santosh-sangnod", "icon": "linkedin", "username": "santosh-sangnod" },
+  { "id": "instagram", "label": "Instagram", "url": "https://instagram.com/santosh.sangnod", "icon": "instagram", "username": "@santosh.sangnod" },
+  { "id": "twitter", "label": "Twitter / X", "url": "https://twitter.com/santoshsangnod", "icon": "twitter", "username": "@santoshsangnod" },
+  { "id": "email", "label": "Email", "url": "mailto:santoshsangnod2030@gmail.com", "icon": "mail", "username": "santoshsangnod2030@gmail.com" }
+]

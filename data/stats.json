@@ -1,0 +1,6 @@
+[
+  { "label": "Months Building FeedoZone", "value": 3, "suffix": "+", "icon": "rocket" },
+  { "label": "Projects Shipped", "value": 5, "suffix": "+", "icon": "code" },
+  { "label": "Technologies Mastered", "value": 15, "suffix": "+", "icon": "layers" },
+  { "label": "National Competitions", "value": 3, "suffix": "", "icon": "trophy" }
+]
